@@ -1,2 +1,2 @@
-# abjs
-A/B Testing JavaScript Snippet
+# abtest
+A/B Testing JavaScript
