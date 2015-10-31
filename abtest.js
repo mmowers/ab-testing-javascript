@@ -105,7 +105,7 @@ Taken from https://developer.mozilla.org/en-US/docs/Web/API/document.cookie, and
 |*|  * abCookies.getCookie(name)
 |*|  * abCookies.removeInactive()
 */
-var abCookiePrefix = 'abjs_';
+var abCookiePrefix = 'abtest_';
 var defaultDomain = document.domain;
 var abCookies = {
   getCookie: function (sKey) {
